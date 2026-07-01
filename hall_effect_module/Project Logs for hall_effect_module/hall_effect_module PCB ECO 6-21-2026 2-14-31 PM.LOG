@@ -1,0 +1,2 @@
+Added Member To Class: ClassName=hall_effect_module Member=Component C5 Capacitor 100 nF +/-10% 50 V 0805
+Added Member To Class: ClassName=hall_effect_module Member=Component U3 STM32F103C8T6TR

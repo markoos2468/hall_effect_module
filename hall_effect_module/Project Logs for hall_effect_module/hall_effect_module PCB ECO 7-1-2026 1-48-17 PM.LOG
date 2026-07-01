@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=3V3 Pin=C9-2
+Removed Member From Class: ClassName=hall_effect_module Member=C9
+Added Member To Class: ClassName=hall_effect_module Member=Component C4 Capacitor 22pF +/-10% 50V 0402
